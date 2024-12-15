@@ -6,3 +6,4 @@ next to do:
 5. jawaban divalidasi ketika telah 2 detik wajah terdeteksi miring ke arah jawaban
 6. saat kepala lurus artinya belum menjawab
 7. melihat sudut kemiringan secara live
+8. jeje test
