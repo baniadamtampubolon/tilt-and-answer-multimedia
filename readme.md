@@ -7,3 +7,4 @@ next to do:
 6. saat kepala lurus artinya belum menjawab
 7. melihat sudut kemiringan secara live
 8. jeje test
+9. jeje test II
