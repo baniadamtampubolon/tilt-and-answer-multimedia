@@ -8,3 +8,7 @@ next to do:
 7. melihat sudut kemiringan secara live
 8. jeje test
 9. jeje test II
+
+git config --global user.name "ZahraAreefaAnanta"
+git config --global user.email "zahra.121140138@student.itera.ac.id"
+
