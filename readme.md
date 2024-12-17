@@ -12,31 +12,55 @@ Logbook mingguan:
 Instruksi dan instalasi untuk penggunaan program:
 
 a. Persyaratan sistem: python 3.12, kamera.
+
 b. Instalasi.
+
 1. Clone Repository:
+   
    Unduh atau clone repository ini ke komputer Anda:
+   
    git clone https://github.com/baniadamtampubolon/tilt-and-answer-multimedia.git
+   
    cd tilt-and-answer-multimedia
-2. Buat Virtual Environment.
-3. Install Dependencies.
+   
+3. Buat Virtual Environment.
+   
+5. Install Dependencies.
+   
    Install semua library yang dibutuhkan dengan perintah:
+   
    pip install -r requirements.txt
-4. Folder Struktur.
+   
+7. Folder Struktur.
+   
    Siapkan folder berikut:
    .
    ├── quiz-question/
+   
    │   ├── q1.png
+   
    │   ├── q2.png
+   
    │   ├── q3.png
+   
    │   ├── q4.png
+   
    │   └── q5.png
+   
    ├── hasil/
+   
    │   ├── skor1.png
+   
    │   ├── skor2.png
+   
    │   ├── skor3.png
+   
    │   ├── skor4.png
+   
    │   └── skor5.png
+   
    ├── main.py
+   
    └── requirements.txt
 
 
