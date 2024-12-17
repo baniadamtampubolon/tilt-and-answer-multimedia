@@ -3,11 +3,14 @@ Nama Anggota dan ID GitHub:
 2. Zahra Areefa Ananta (121140138) : ZahraAreefaAnanta
 
 Deskripsi filter Tilt and Answer:
+
 Proyek ini adalah sebuah filter kuis interaktif yang menggunakan deteksi gerakan kepala untuk memilih jawaban, dikembangkan dengan Python menggunakan pustaka OpenCV dan MediaPipe. Filter ini menampilkan pertanyaan secara acak dengan dua pilihan jawaban, di mana pengguna dapat menjawab dengan menggerakkan kepala ke kanan atau ke kiri. Setelah setiap jawaban diberikan, pertanyaan secara otomatis berganti hingga 10 pertanyaan selesai dijawab, dan skor akhir akan ditampilkan. Proyek ini dirancang untuk memberikan pengalaman interaktif tanpa memerlukan perangkat keras tambahan seperti mouse atau keyboard, sehingga cocok digunakan untuk hiburan, pembelajaran, atau aplikasi berbasis teknologi lainnya.
+
 
 Logbook mingguan:
 
 Instruksi dan instalasi untuk penggunaan program:
+
 a. Persyaratan sistem: python 3.12, kamera.
 b. Instalasi.
 1. Clone Repository:
