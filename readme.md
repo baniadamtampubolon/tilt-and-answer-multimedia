@@ -68,7 +68,7 @@ b. Instalasi.
 1. Aktifkan virtual environment
 2. Jalankan program dengan perintah:
 
-   python main.py
+   python quiz_filter.py
 3. Penggunaan Program:
 - Program akan mendeteksi wajah Anda menggunakan kamera web.
 - Miringkan kepala Anda ke Kanan untuk menjawab YES.
