@@ -10,8 +10,8 @@ Proyek ini adalah sebuah filter kuis interaktif yang menggunakan deteksi gerakan
 | Minggu        | Progres                                        | 
 |---------------|------------------------------------------------|
 | Minggu 1      | Mengajukan judul topik beserta deskripsinya    | 
-| Minggu 2      | Mendesign pertanyaan                           | 
-| Minggu 3      | Membuat kodingan                               | 
+| Minggu 2      | Mendesain pertanyaan quiz                      | 
+| Minggu 3      | Membuat program, dan mengembangkan fitur       | 
 | Minggu 4      | Membuat Laporan                                |
 
 **Instruksi dan instalasi untuk penggunaan program:**
@@ -59,7 +59,7 @@ b. Instalasi.
 
    │   └── skor5.png
 
-   ├── main.py
+   ├── quiz_filter.py
 
    └── requirements.txt
 
@@ -88,3 +88,7 @@ b. Instalasi.
 **Hasil Skor**
 
 Skor akhir akan ditampilkan di layar dan diambil dari folder hasil/. Pastikan file gambar seperti skor1.png hingga skor5.png telah tersedia.
+
+**Catatan**
+1. try.py dan test.py merupakan file yang digunakan pada masa pengembangan aplikasi untuk mengembangkan fitur agar tidak terjadi error pada file utama projek, file ini tidak memiliki pengaruh terhadap file utama (quiz_filter.py).
+2. quiz_filter.py adalah isi dari program utama
